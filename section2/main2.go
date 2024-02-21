@@ -1,17 +1,19 @@
 package main
 
-// arrays
-// func todo() {
-// 	//var arr []int
-// 	arr := []int{1, 2, 3, 4}
-// 	arr2 := []string{"hi", "my", "name"}
+import "fmt"
 
-// 	arr2 = append(arr2, "is", "angad", "!")
-// 	fmt.Println(arr, arr2)
-// }
+//arrays
+func todo() {
+	var arr []int
+	arr = []int{1, 2, 3, 4}
+	arr2 := []string{"hi", "my", "name"}
 
-// structure encapsulation
-/*
+	arr2 = append(arr2, "is", "angad", "!")
+	fmt.Println(arr, arr2)
+}
+
+//structure encapsulation
+
 type Car struct {
 	Name    string
 	Age     int
@@ -40,4 +42,3 @@ func main() {
 	c.Drive()
 	fmt.Println(c.GetName())
 }
-*/

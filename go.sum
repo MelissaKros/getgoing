@@ -1,0 +1,4 @@
+github.com/L04DB4L4NC3R/getgoing v0.0.0-20190730132953-5ddd000ac45d h1:1IoreZQQ4dW5u7lUsb1XXXrRpr7U9bur0ptKDeJ8ewk=
+github.com/L04DB4L4NC3R/getgoing v0.0.0-20190730132953-5ddd000ac45d/go.mod h1:SeuADXOj1rt6qm+b3Er7SPDvHDUtq8tcLfBRRQpz9ro=
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
